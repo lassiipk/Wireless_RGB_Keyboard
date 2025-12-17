@@ -33,7 +33,7 @@ I want hands-on experience with:
 - Date: 18-Dec-2025
 - Time: 3:00 AM
 
-What I did:
+## What I did:
 - Created a project log and documentation
 - Designed a 96% keyboard layout using KLE
 - Set up a GitHub repository for the project
@@ -42,10 +42,10 @@ What I did:
 <img width="268" height="173" alt="Screenshot 2025-12-18 025526" src="https://github.com/user-attachments/assets/c3e04049-7d33-43b4-b489-c5dac4426303" />
 <img width="1046" height="290" alt="compact_1 o" src="https://github.com/user-attachments/assets/3b8bc6e5-ad08-4b39-9ec8-1f2695b9d0ed" />
 
-What I learned:
+## What I learned:
 - How to document a hardware project
 - How keyboard layouts are structured
 - Why planning is important before building
 
-Next goal:
+## Next goal:
 - Learn basic keyboard electronics (rows, columns, MCU)
