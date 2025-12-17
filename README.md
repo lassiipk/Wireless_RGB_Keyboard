@@ -28,3 +28,23 @@ I want hands-on experience with:
 - Finalize documentation
 - Learn basics of PCB design
 - Choose components for the keyboard
+
+## Progress Update #1
+Date: 18-Dec-2025
+Time: 3:00 AM
+
+What I did:
+- Created a project log and documentation
+- Designed a 96% keyboard layout using KLE
+- Set up a GitHub repository for the project
+- Organized files locally (notes, screenshots, layouts)
+! [] (Screenshots/Screenshot 2025-12-18 025526.png)
+! [] (Keboard_Layout_Editor_(KLE)/compact_1.o.png)
+
+What I learned:
+- How to document a hardware project
+- How keyboard layouts are structured
+- Why planning is important before building
+
+Next goal:
+- Learn basic keyboard electronics (rows, columns, MCU)
