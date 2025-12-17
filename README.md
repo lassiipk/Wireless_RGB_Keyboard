@@ -30,8 +30,8 @@ I want hands-on experience with:
 - Choose components for the keyboard
 
 ## Progress Update #1
-Date: 18-Dec-2025
-Time: 3:00 AM
+- Date: 18-Dec-2025
+- Time: 3:00 AM
 
 What I did:
 - Created a project log and documentation
@@ -39,8 +39,8 @@ What I did:
 - Set up a GitHub repository for the project
 - Organized files locally (notes, screenshots, layouts)
 
-<img width="1046" height="290" alt="compact_1 o" src="https://github.com/user-attachments/assets/3b8bc6e5-ad08-4b39-9ec8-1f2695b9d0ed" />
 <img width="268" height="173" alt="Screenshot 2025-12-18 025526" src="https://github.com/user-attachments/assets/c3e04049-7d33-43b4-b489-c5dac4426303" />
+<img width="1046" height="290" alt="compact_1 o" src="https://github.com/user-attachments/assets/3b8bc6e5-ad08-4b39-9ec8-1f2695b9d0ed" />
 
 What I learned:
 - How to document a hardware project
